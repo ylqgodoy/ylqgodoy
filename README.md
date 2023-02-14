@@ -29,7 +29,7 @@
 -->
  
 <div align="center">
- <img align="center" src="gif.gif">
+ <img align="center" src="gif2.gif">
 </div>
 <br>
 

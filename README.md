@@ -45,12 +45,12 @@
 -->
 
   <div align="center">
-   <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=MonkiisHere&hide=contribs,prs&show_icons=true&theme=tokyonight" alt="js"/>
-   <img height=140em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MonkiisHere&theme=tokyonight" alt="js"/>
+   <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=MonkiisHere&hide=contribs,prs&show_icons=true&theme=dark" alt="js"/>
+   <img height=140em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MonkiisHere&theme=dark" alt="js"/>
   </div>
  
   <div align="center">
-   <img height=152em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkiisHere&&layout=compact&theme=tokyonight" alt="js"/>
+   <img height=152em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkiisHere&&layout=compact&theme=dark" alt="js"/>
   </div>
 
 <!--

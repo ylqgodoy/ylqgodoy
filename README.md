@@ -17,8 +17,8 @@
 
 <div align="left">
 
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
 </div>
@@ -45,8 +45,8 @@
 -->
 
   <div align="center">
-   <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=ylqgodoy&hide=contribs,prs&show_icons=true&theme=dark" alt="js"/>
-   <img height=140em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ylqgodoy&theme=dark" alt="js"/>
+   <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=ylqgodoy&hide=contribs,prs&show_icons=true&theme=dark" alt="js"/><br>
+   <img height=140em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ylqgodoy&theme=dark" alt="js"/><br>
   </div>
  
   <div align="center">

@@ -6,7 +6,7 @@
 <h1> Oi oi, eu sou o Yves Lorenzo 🚀 </h1>
  
  <div align="left">
-<img src="https://komarev.com/ghpvc/?username=MonkiisHere&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=ylqgodoy&label=PROFILE+VIEWS">
 </div>
 
 🪐 Front-End Developer.
@@ -45,12 +45,12 @@
 -->
 
   <div align="center">
-   <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=MonkiisHere&hide=contribs,prs&show_icons=true&theme=dark" alt="js"/>
-   <img height=140em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MonkiisHere&theme=dark" alt="js"/>
+   <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=ylqgodoy&hide=contribs,prs&show_icons=true&theme=dark" alt="js"/>
+   <img height=140em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ylqgodoy&theme=dark" alt="js"/>
   </div>
  
   <div align="center">
-   <img height=152em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkiisHere&&layout=compact&theme=dark" alt="js"/>
+   <img height=152em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylqgodoy&&layout=compact&theme=dark" alt="js"/>
   </div>
 
 <!--

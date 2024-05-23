@@ -59,6 +59,6 @@
 
 <h2> 🪐 Snake Game: </h2>
  
-![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muzayx/muzayx/output/github-contribution-grid-snake.svg">
 
 </main>

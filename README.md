@@ -44,7 +44,7 @@
 📖 Read me status:
 -->
   <div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ylqgodoy&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false" alt="js"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ylqgodoy&locale=pt-br&hide_title=false&layout=compact&card_width=600&langs_count=12&theme=dark&hide_border=false" alt="js"/>
   </div>
 
 <!--

@@ -43,12 +43,6 @@
 <!--
 📖 Read me status:
 -->
-
-  <div align="center">
-   <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=ylqgodoy&hide=contribs,prs&show_icons=true&theme=dark" alt="js"/><br><br>
-   <img height=140em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ylqgodoy&theme=dark" alt="js"/><br><br>
-  </div>
- 
   <div align="center">
    <img height=152em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylqgodoy&&layout=compact&theme=dark" alt="js"/>
   </div>

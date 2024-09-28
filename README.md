@@ -74,12 +74,6 @@
 
 ##
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ylqgodoy/count.svg?"/>
-</div>
-
-##
-
 <a href="https://github.com/ylqgodoy">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567&reversal=true&section=footer"/>
 </a>

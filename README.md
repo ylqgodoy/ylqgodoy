@@ -47,10 +47,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
     </a>
     <img width="5">
-    <a href="https://github.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
-    </a>
-    <img width="5">
   </div>
 </div>
 

@@ -1,4 +1,6 @@
-<a href="https://github.com/ylqgodoy"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
+<a href="https://github.com/ylqgodoy">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/>
+</a>
 
 ###
 
@@ -16,7 +18,6 @@
 
 <div align="center">
   <h3>My Stacks</h3>
-
   <div align="center">
     <a href="https://html.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -38,7 +39,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
     </a>
     <img width="5">
-    <a href="https://reactjs.org/" target="_blank">   
+    <a href="https://reactjs.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
     </a>
     <img width="5">
@@ -57,11 +58,10 @@
 
 <div align="center">
   <h3>Contacts</h3>
-
   <div align="center">
-  <a href="mailto:ylqgodoy@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
+    <a href="mailto:ylqgodoy@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    </a>
   </div>
 </div>
 
@@ -81,4 +81,6 @@
 
 ##
 
-<a href="https://github.com/ylqgodoy"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567&reversal=true&section=footer"/></a>
+<a href="https://github.com/ylqgodoy">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567&reversal=true&section=footer"/>
+</a>

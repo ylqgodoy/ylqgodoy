@@ -64,24 +64,14 @@
 <div align="center">
   <h3>Contacts</h3>
 
-  <div align="left">
-  <a href="https://api.whatsapp.com/send?phone=5586988195910" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yurisbarbosa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:dev.yuribarbosa@gmail.com" target="_blank">
+  <div align="center">
+  <a href="mailto:ylqgodoy@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   </div>
 </div>
 
 ##
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ylqgodoy/ylqgodoy/output/snake.svg" alt="Snake animation" />
-</div>
 
 <h2 align="center">GitHub Trophies</h2>
      

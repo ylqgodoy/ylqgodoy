@@ -68,7 +68,7 @@
 ##
 
 <p align="center">
-  <h3>My Stacks</h3>
+  <h3 align="center">GitHub Trophies</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=ylqgodoy&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 

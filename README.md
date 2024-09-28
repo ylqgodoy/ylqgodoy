@@ -69,9 +69,10 @@
 
 <h2 align="center">GitHub Trophies</h2>
 
-<div align="center">
-  ![](https://github-profile-trophy.vercel.app/?username=ylqgodoy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ylqgodoy&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
 ##
 
 <div align="center">

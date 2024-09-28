@@ -1,5 +1,5 @@
 <a href="https://github.com/ylqgodoy">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5D3FD3&fontColor=45664567"/>
 </a>
 
 ###
@@ -75,5 +75,5 @@
 ##
 
 <a href="https://github.com/ylqgodoy">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567&reversal=true&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5D3FD3&fontColor=45664567&reversal=true&section=footer"/>
 </a>

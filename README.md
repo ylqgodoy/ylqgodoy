@@ -18,7 +18,7 @@
 <main>
  <h2> 🪐 GitHub stats: </h2>
  <br>
- <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ylqgodoy&locale=pt-br&hide_title=false&layout=compact&card_width=600&langs_count=12&theme=dark&hide_border=false" alt="js"/>
+ <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ylqgodoy&locale=pt-br&hide_title=false&layout=compact&card_width=600&langs_count=12&theme=dark&hide_border=false" alt="js"/>
  </div>
 </main>

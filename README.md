@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi! 👋 My name is Yves Lorenzo, and I'm a Web Developer from Brazil.</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=25&duration=4991&pause=1000&color=FF66C4&background=FFFFFF00&center=true&vCenter=true&random=true&width=680&lines=Hi!%F0%9F%91%8B+My+name+is+Yves+Lorenzo.;I'm+a+Web+Developer+from+Brazil.)](https://git.io/typing-svg)
 
 ###
 

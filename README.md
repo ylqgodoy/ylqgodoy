@@ -15,13 +15,14 @@
 
 <h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">&nbsp;
-<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">&nbsp;</div>
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;
+</div>
 <h2 align="center">🛠 My Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neurotoxinlover&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages Card"></div>

@@ -24,6 +24,6 @@
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">&nbsp;</div>
 <h2 align="center">🛠 My Stats</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neurotoxinlover&layout=compact&theme=dark" alt="Top Languages Card"></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neurotoxinlover&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages Card"></div>
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">🔗 Discord: neurotoxinlover</p>

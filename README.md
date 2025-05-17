@@ -1,79 +1,29 @@
-<a href="https://github.com/ylqgodoy">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5D3FD3&fontColor=45664567"/>
-</a>
-
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=10&color=&color=FF0000&descAlign=22&descAlignY=23&reversal=false"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=25&duration=4991&pause=1000&color=FF66C4&background=FFFFFF00&center=true&vCenter=true&random=true&width=680&lines=Hi!%F0%9F%91%8B+My+name+is+Yves+Lorenzo.;I'm+a+Web+Developer+from+Brazil." alt="Typing SVG">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=F70000&center=true&width=435&lines=Hi+there%2C+kyz+%F0%9F%91%8B;Developer+for+4+years." alt="Typing SVG" /></a><p>Oi, meu nome é kyz, sou um desenvolvedor backend e frontend apaixonado por criar aplicações escaláveis e robustas.
+<p>Quando não estou programando, gosto de experimentar novas ferramentas, contribuir para projetos open-source e compartilhar meu conhecimento com a comunidade de desenvolvedores. 🚀</p>
 </div>
 
-###
+<h3 align= 'center'>
+  Meu Perfil do Discord!
+</h3>
 
+<div align="center">  
+  <img src="https://api.victims.bio/discord/user/discord-arts/1356808351958302780/card" alt="discord" /> 
+</div>
+
+<h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ylqgodoy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com?user=ylqgodoy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ylqgodoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
-</div>
-
-##
-
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">&nbsp;</div>
+<h2 align="center">🛠 My Stats</h2>
 <div align="center">
-  <h3>My Stacks</h3>
-  <div align="center">
-    <a href="https://html.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
-    </a>
-    <img width="5">
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-    </a>
-    <img width="5">
-    <a href="https://www.javascript.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-    </a>
-    <img width="5">
-    <a href="https://nodejs.org/en/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
-    </a>
-    <img width="5">
-    <a href="https://www.npmjs.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"/>
-    </a>
-    <img width="5">
-    <a href="https://reactjs.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
-    </a>
-    <img width="5">
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
-    </a>
-    <img width="5">
-  </div>
-</div>
-
-##
-
-<div align="center">
-  <h3>Contacts</h3>
-  <div align="center">
-    <a href="mailto:ylqgodoy@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"/>
-    </a>
-  </div>
-</div>
-
-##
-
-<h3 align="center">GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ylqgodoy&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
-##
-
-<a href="https://github.com/ylqgodoy">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5D3FD3&fontColor=45664567&reversal=true&section=footer"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neurotoxinlover&layout=compact&theme=dark" alt="Top Languages Card"></div>
+<h2 align="center">📫 Connect with me</h2>
+<p align="center">🔗 Discord: neurotoxinlover</p>
